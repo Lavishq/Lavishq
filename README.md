@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+Hello,
+iam Lavishq
+```programmer```
+<br>
+<a href="https://twitter.com/iLavishq">
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <!--
 **Lavishq/Lavishq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
