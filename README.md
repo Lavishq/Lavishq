@@ -1,5 +1,4 @@
-### Hi there 👋
-Hello,
+### Hello,💻
 <br>
 iam Lavishq
 <br>
