@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-gm, Anon🐧🐧! im a passionate programmer with interests in zkml, cryptography and systems + chain security. Started to play online chess seriously from july-aug 2023, daily drive window manager linux, research security, tech and biohacking🐧🐧
+gm, Anon🐧🐧! im a passionate 23 yo programmer with interests in zkml, cryptography and systems + onchain security. i also to play online chess seriously from july-aug 2023, daily drive window manager linux, research security, tech and biohacking🐧🐧
 
 ## 💼 ExP
 
@@ -19,6 +19,12 @@ gm, Anon🐧🐧! im a passionate programmer with interests in zkml, cryptograph
 *Sept 2024 – Present*
 
 - Full Stack Python Developer in the Business Intelligence Department at [Redacted], where I wear multiple hats, including data analysis, automation via cronjobs using python scripts & puppeteer, ubuntu server management and developing reports and projects for internal monitoring
+<!--
+<details>
+  <summary><strong>Domain Expansion</strong> <em></em></summary>
+  Full Stack Python Developer in the Business Intelligence Department at [Redacted], where I wear multiple hats, including data analysis, automation via cronjobs using python scripts & puppeteer, ubuntu server management and developing reports and projects for internal monitoring
+</details>
+-->
 
 ## 🏫 Academia
 
@@ -30,9 +36,9 @@ _while the degree helped me tick the academic box. Most of what I know today abo
 
 _hackathons, ctfs, blogs and other online resources helped me tremendously to improve significantly_
 
-- hackathon project -> [Parametric Wind Farm Insurance](https://github.com/your-profile/parametric-wind-farm-insurance) 
+- hackathon project -> [Parametric Wind Farm Insurance](hhttps://github.com/Lavishq/parametric-wind-farm-insurance) 
 
-- just project -> [FrontendMentor Responsive CSS Challenge](https://github.com/your-profile/responsive-css-challenge)  
+- just project -> [FrontendMentor Responsive CSS Challenge](https://lavishq.github.io/product-preview-card-component-main/)  
 
 - and many more but its such a drag to put them here (will do later)
 
